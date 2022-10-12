@@ -8,7 +8,7 @@ I'm a Junior Developer 💻🇮🇪!
 
 I love the entire process of developing. I love the challenge of figuring out problems and spending time to meet new people. Learning how people Interact with the projects I create is always great!.
 
-### 🤝 Follow me on github:
+### 🤝 Follow me on github
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
