@@ -3,7 +3,7 @@ Hi there 👋
 </h3>
 
 <h2 align="center">
-I'm a Junior Developer 💻, And Proud Irish Man🇮🇪!
+I'm a Junior Developer 💻🇮🇪!
 </h2> 
 
 I love the entire process of developing. I love the challenge of figuring out problems and spending time to meet new people. Learning how people Interact with the projects I create is always great!.
