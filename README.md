@@ -45,4 +45,9 @@ I love the entire process of developing. I love the challenge of figuring out pr
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+<br>
+
+## Qualifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f6c33225-c8ea-48da-9078-c8edbe79ff4f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
