@@ -15,7 +15,7 @@ I'm passionate about the entire development process and thrive on solving challe
 
 ## 🔭 Current Projects
 
-- SvelteDeais - A Dashboard SAAS. To create enterprise level dashboard applications connected to your data and using a low code builder
+- BoredFish - A Dashboard SAAS. To create enterprise level dashboard applications connected to your data and using a low code builder
 - Svelte Portfolio Website
 
 ## 🌱 Actively Learning
