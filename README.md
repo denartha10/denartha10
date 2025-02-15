@@ -20,8 +20,9 @@ I'm a developer with a passion for solving complex problems and creating systems
 
 ### 🚀 **Current Projects**
 
-- **BoredFish**: A low-code SaaS platform for building enterprise dashboards. Connect your data, customize your views, and deploy in minutes.
-- **Svelte Portfolio**: A sleek, modern portfolio site built with SvelteKit (because vanilla is overrated).
+- **BoredFish**: Lab Automation & IoT Integration Platform
+- **Message Broker**: Deep diving into how message brokers are made by building my own using the STOMP protocol
+- **Competitive Programming**: Brushing up on my data structures and algorithm schools and my Maths to challenge my problem solving skills.
 
 ---
 
