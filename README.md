@@ -1,42 +1,60 @@
 <h3 align="center">
-Hello there 👋
+Hey there, I'm Niall! 👋
 </h3>
 
 <h2 align="center">
-Junior Developer at your service 💻🇮🇪!
-</h2> 
+Mid Level Engineer from Ireland 🚀
+</h2>
 
-I'm passionate about the entire development process and thrive on solving challenging problems. Connecting with new people and understanding how they interact with my projects is always a rewarding experience.
+I'm a developer with a passion for solving complex problems and creating systems that make life easier. Whether it's building scalable APIs, diving into IoT, or exploring the cutting edge of hypermedia systems, I love pushing the boundaries of what's possible. Let's connect and build something amazing together!
 
-### 🤝 Connect with me on GitHub
+---
 
-</br>
-- 💬 Feel free to reach out if you have any questions or feedback!
+### 🛠️ **What I'm Up To**
 
-## 🔭 Current Projects
+- **Building**: Enterprise-grade dashboards with low-code tools and real-time data integrations.
+- **Learning**: Rust 🦀 (because who doesn't love memory safety?) and diving deep into IoT + hypermedia systems.
+- **Researching**: How hypermedia can revolutionize IoT ecosystems (think smarter devices, better APIs, and seamless interactions).
 
-- BoredFish - A Dashboard SAAS. To create enterprise level dashboard applications connected to your data and using a low code builder
-- Svelte Portfolio Website
+---
 
-## 🌱 Actively Learning
+### 🚀 **Current Projects**
 
-- 🎨 Svelte + Kit
-- 🦀 Rust 
+- **BoredFish**: A low-code SaaS platform for building enterprise dashboards. Connect your data, customize your views, and deploy in minutes.
+- **Svelte Portfolio**: A sleek, modern portfolio site built with SvelteKit (because vanilla is overrated).
 
-## 💼 Technical Skills
+---
 
-<br>
+### 🌱 **Actively Learning**
 
-![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&color=ff3e00)
+- **Rust**: Exploring systems programming and building high-performance tools.
+- **IoT + Hypermedia**: Researching how hypermedia systems can make IoT devices smarter and more interconnected.
+
+---
+
+### 💻 **Technical Skills**
+
+#### **Languages & Frameworks**
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&color=000000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=grey)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&color=FF3E00)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&color=009688)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
+#### **Databases & Tools**
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&color=47A248)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon-AWS&color=232F3E)
+
+#### **DevOps & CI/CD**
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&color=D24939)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&color=EE0000)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=GitHub-Actions&color=2088FF)
+
+---
+
+### 🤝 **Let's Connect!**
+
+- 💬 **Reach out**: If you're into IoT, hypermedia, or just want to geek out about Rust, I'm all ears!
