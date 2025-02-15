@@ -3,7 +3,7 @@ Hey there, I'm Niall! 👋
 </h3>
 
 <h2 align="center">
-Mid Level Engineer from Ireland 🚀
+Mid Level Engineer 🚀
 </h2>
 
 I'm a developer with a passion for solving complex problems and creating systems that make life easier. Whether it's building scalable APIs, diving into IoT, or exploring the cutting edge of hypermedia systems, I love pushing the boundaries of what's possible. Let's connect and build something amazing together!
@@ -12,7 +12,7 @@ I'm a developer with a passion for solving complex problems and creating systems
 
 ### 🛠️ **What I'm Up To**
 
-- **Building**: Enterprise-grade dashboards with low-code tools and real-time data integrations.
+- **Building**: Enterprise-grade dashboards and real-time data integrations.
 - **Learning**: Rust 🦀 (because who doesn't love memory safety?) and diving deep into IoT + hypermedia systems.
 - **Researching**: How hypermedia can revolutionize IoT ecosystems (think smarter devices, better APIs, and seamless interactions).
 
