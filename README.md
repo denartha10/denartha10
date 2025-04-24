@@ -58,4 +58,4 @@ I'm a developer with a passion for solving complex problems and creating systems
 
 ### 🤝 **Let's Connect!**
 
-- 💬 **Reach out**: If you're into IoT, hypermedia, or just want to geek out about Rust, I'm all ears!
+- 💬 **Reach out**: If you're into IoT, hypermedia, or just want to geek out about Programming, I'm all ears!
